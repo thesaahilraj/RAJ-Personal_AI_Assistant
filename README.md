@@ -5,22 +5,22 @@ It is a Python Based AI Assistant.
 
 ## What RAJ can do?
 
-### Tell Time
-### Tell Today's Date
-### Search on Wikipedia
-### Search on Google
-### Open Websites
-### Search Video on Youtube
-### Tell Jokes
-### Take Notes
-### Show Saved Notes
-### Take Screenshot
-### Remember Something
-### Tell Latest News Headlines
-### Show Location on Google Maps
-### Log off User
-### Restart Device
-### Shutdown Device
+##### Tell Time
+##### Tell Today's Date
+##### Search on Wikipedia
+##### Search on Google
+##### Open Websites
+##### Search Video on Youtube
+##### Tell Jokes
+##### Take Notes
+##### Show Saved Notes
+##### Take Screenshot
+##### Remember Something
+##### Tell Latest News Headlines
+##### Show Location on Google Maps
+##### Log off User
+##### Restart Device
+##### Shutdown Device
 
 #### More to be Added in Upcoming Commits
 
