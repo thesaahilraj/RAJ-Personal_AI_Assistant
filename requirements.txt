@@ -1,0 +1,10 @@
+pyttsx3
+datetime
+speech_recognition as sr
+pyaudio
+wikipedia
+pyjokes
+pyautogui
+json
+requests
+time
