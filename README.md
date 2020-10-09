@@ -25,11 +25,13 @@ It is a Python Based AI Assistant.
 #### More to be Added in Upcoming Commits
 
 
-## Requirements:
+## Installation:
 
-Make sure to install these packages before proceeding.
-
-You can run :  `pip install -r requirements.txt` to install them all.
+```
+git clone https://github.com/thesaahilraj/RAJ-Personal_AI_Assistant.git
+pip install -r requirements.txt
+Raj_Personal_AI_Assistant.py
+```
 
 ## Download .exe file using the Link Below
 https://gofile.io/d/eU4tDZ
